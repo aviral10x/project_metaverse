@@ -8,7 +8,11 @@ module.exports = {
   ],
   mode: 'jit',
   theme: {
+  
     extend: {
+      fontFamily: {
+        display: ['Seymour One', 'sans-serif'],
+      },
       colors: {
         'primary-black': '#1A232E',
         'secondary-white': '#c7c7c7',

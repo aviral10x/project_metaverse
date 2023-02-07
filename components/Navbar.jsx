@@ -21,9 +21,12 @@ const Navbar = () => (
         alt="search"
         className="w-[24px] h-[24px] object-contain"
       />
-      <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
-        METAVERSUS
-      </h2>
+          <img
+        src="/meet3club.png"
+        alt="logo"
+        className="w-[76px] h-[50px] object-contain"
+      />
+
       <img
         src="/menu.svg"
         alt="menu"

@@ -10,6 +10,8 @@ const MyApp = ({ Component, pageProps }) => (
       <link rel="icon" href="/favicon.ico" />
       <link rel="preconnect" href="https://stijndv.com" />
       <link rel="stylesheet" href="https://stijndv.com/fonts/Eudoxus-Sans.css" />
+
+      
     </Head>
     <Component {...pageProps} />
   </>
