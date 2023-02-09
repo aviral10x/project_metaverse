@@ -39,12 +39,14 @@ const Hero = () => (
         {/* <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[30px]" /> */}
 <div className='flex justify-center'>
 
+<a href='https://match.meet3.club/' target='_blank'>
+
 
         <img
           src="/punch.png"
           alt="hero_cover"
           className="w-auto sm:h-[500px] h-[350px] object-cover rounded-tl-[140px] z-10 relative"
-        />
+        /></a>
 </div>
 
         {/* <a href="#explore">
