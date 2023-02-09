@@ -13,15 +13,13 @@ const Navbar = () => (
     className={`${styles.xPaddings} py-8 relative`}
   >
     <div className="absolute w-[50%] inset-0 gradient-01" />
-    <div
-      className={`${styles.innerWidth} mx-auto flex justify-between gap-8`}
-    >
+    <div className={`${styles.innerWidth} mx-auto flex justify-between gap-8`}>
       <img
         src="/search.svg"
         alt="search"
         className="w-[24px] h-[24px] object-contain"
       />
-          <img
+      <img
         src="/meet3club.png"
         alt="logo"
         className="w-[76px] h-[50px] object-contain"
