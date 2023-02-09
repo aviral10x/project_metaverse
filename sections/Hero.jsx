@@ -18,6 +18,11 @@ const Hero = () => (
         <motion.h1 variants={textVariant(1.1)} className={styles.heroHeading}>
           Meet 3 club
         </motion.h1>
+        <motion.h3 variants={textVariant(1.1)}  className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white">
+        <span className="font-extrabold text-white"> Video/Voice</span>  chat platform that connects people ​​{' '}
+        <span className="font-extrabold text-white">
+        randomly</span>
+        </motion.h3>
         <motion.div
           variants={textVariant(1.2)}
           className="flex flex-row justify-center items-center"

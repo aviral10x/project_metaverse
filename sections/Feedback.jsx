@@ -24,7 +24,7 @@ const Feedback = () => (
             Samantha
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22.68px] leading-[16.68px] text-white">
-            Founder Metaverus
+            Founder Meet3Club
           </p>
         </div>
 
@@ -45,7 +45,7 @@ const Feedback = () => (
           className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"
         />
 
-        <motion.div
+        {/* <motion.div
           variants={zoomIn(0.4, 1)}
           className="lg:block hidden absolute -left-[10%] top-[3%]"
         >
@@ -54,7 +54,7 @@ const Feedback = () => (
             alt="stamp"
             className="w-[155px] h-[155px] object-contain"
           />
-        </motion.div>
+        </motion.div> */}
       </motion.div>
     </motion.div>
   </section>

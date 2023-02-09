@@ -25,7 +25,9 @@ const About = () => (
         <span className="font-extrabold text-white">Meet3Club</span> is a video/voice chat platform that connects people ​​{' '}
         <span className="font-extrabold text-white">
         randomly
-        </span>{' '}
+        </span>{' '} while respecting their  <span className="font-extrabold text-white">
+        anonymity        </span>{' '} .
+        It prioritizes user privacy and creates a safe space for open and authentic conversations with the people having similar interests.
         
       </motion.p>
 
