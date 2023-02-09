@@ -22,14 +22,14 @@ export const exploreWorlds = [
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'Meet3Club iFrame',
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Connect Wallet seamlessly through Biconomy',
+  'Find a community that suits you and you want to enter',
+  'Chat with community members from all around the world and maintain your streak',
 ];
 
 export const newFeatures = [
@@ -37,13 +37,13 @@ export const newFeatures = [
     imgUrl: '/vrpano.svg',
     title: 'Video/Voice Chat Filters',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'Users can have custom video/voice filters to maintain anonymity',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Meet Streaks',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Incentivises users to engage on the platform daily',
   },
 ];
 
@@ -72,6 +72,7 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    web: 'https://twitter.com/meet3club',
   },
   {
     name: 'linkedin',
